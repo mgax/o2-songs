@@ -3,6 +3,13 @@ title: Imnul Pietrei Craiului
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *mi la Re mi (x3) / mi la Si7 mi*  
+**Refren**: *mi Sol Re mi (x3) / Sol Re la mi - Sol Re Sol Re la mi*  
+SAU  
+**Strofă**: *la re Sol la (x3) / la re Mi la*  
+**Refren**: *la Do Sol la (x3) / Do Sol re la - Do Sol Do Sol re la*  
+
 1\. Avem un singur Crai ce-așteaptă neclintit  
 Cu ale sale creste ce-s roșii-n asfințit  
 Plecam sâmbătă seara, urcăm toți împreună  

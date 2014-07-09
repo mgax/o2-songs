@@ -3,6 +3,10 @@ title: Aviația
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *la / Mi / re / Do / la / Mi / re la / Mi la*  
+**Refren**: *la re / Mi la Mi*  
+
 1\. Scoate Migul, dehusează-l, dă-i contact-motor  
 Pe la poarta mândrei mele vreau să trec în zbor  
 De-oi găsi-o supărată, fraților, vă jur  

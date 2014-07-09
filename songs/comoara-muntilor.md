@@ -3,6 +3,10 @@ title: Comoara Munților
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *la Do Sol la (x8)*  
+**Refren**: *la Do Sol la / Fa Sol la / Fa Sol Do la / Fa Sol la*  
+
 Am alergat prin ploi si ninsori  
 Strabatand ale muntilor carari,  
 Sarutand cristalul apelor  

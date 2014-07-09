@@ -3,6 +3,10 @@ title: Pădure Nebună
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *mi / Sol / mi / Sol Re mi*  
+**Refren**: *Sol / mi / Sol / mi Re mi*  
+
 1\. O vară întreagă m-a ținut pădurea  
 Cu fața în iarbă și cu gândul aiurea  
 Iar acum, toamna, la plecare  

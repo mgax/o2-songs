@@ -4,8 +4,8 @@ layout: song
 ---
 
 Acorduri:  
-Strofa: Sol mi Do / Do Sol / Do la Do la / la Do Sol  
-Refren: Sol / Do Sol (x2)  
+**Strofa**: *Sol mi Do / Do Sol / Do la Do la / la Do Sol*  
+**Refren**: *Sol / Do Sol (x2)*  
 
 
 Intro: Ninsa cale fara destin  

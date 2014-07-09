@@ -4,6 +4,11 @@ author: Casa cu Prieteni
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *mi Si7 / la Si7 (x2)*  
+**Bridge**: *Sol la Si7 mi / Sol la Do Si7*  
+**Refren**: *mi Do / la Si7 / mi / Do la / mi Do la / Si7*  
+
 1\. Peste toate se așterne  
 Praf de drum, praf de drum  
 Am lăsat orașu-n spate  

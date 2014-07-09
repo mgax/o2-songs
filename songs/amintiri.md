@@ -3,6 +3,11 @@ title: Amintiri (Crenguță de Brad)
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *Sol / Re Do Sol (x2) / la Do / Sol Re (x2) Refren: Sol Do Sol Re*  
+SAU  
+**Strofă**: *Do / Sol Fa Do (x2) / re Fa / Do Sol (x2) Refren: Do Fa Do Sol*  
+
 1\. Deschizând un sertar  
 O crenguță de brad, amintiri  
 O ridic și-o sărut  

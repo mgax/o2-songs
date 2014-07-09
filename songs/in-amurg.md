@@ -4,6 +4,10 @@ author: Constantin David
 layout: song
 ---
 
+Acorduri:  
+**Strofă**: *la / Sol la / la*  
+**Refren**: *re Sol Do la / re Mi la (x2)*  
+
 1\. În amurg...  
 Umbrele serii lin se scurg  
 Lin se scurg...  
