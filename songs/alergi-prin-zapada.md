@@ -4,13 +4,24 @@ author: Costică David
 layout: song
 ---
 
+*C Am Dm F G*  
+*C Am Dm F G*  
+
+*C*  
 Strang in maini incet un bulgare de nea  
+*Am*  
 Privind spre tine il arunc usor  
+*Dm*  
 Nu te nimeresc de necaz suspin  
+*F G*  
 Iar tu fugi de mine in ras cristalin  
+*C*  
 Alergi prin zapada ninsoarea e deasa  
+*Am*  
 Nici nu stii cand ninge cat esti de frumoasa  
+*Dm*  
 Pe parul tau lung iarna-si asterne  
+*F G*  
 
 
 Fulgii de nea siraguri de perle (x2)  
