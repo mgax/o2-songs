@@ -1,5 +1,5 @@
 ---
-title: Comoara muntilor
+title: Comoara munților
 layout: song
 ---
 
