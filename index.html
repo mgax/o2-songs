@@ -5,9 +5,11 @@ layout: default
 <h1>Cântece de la Oxigen</h1>
 
 <ul>
-  {% for song in site.songs %}
+  {% for song in site.pages %}
+  {% if song.url != '/index.html' and song.url != '/manifest.appcache' %}
     <li>
       <a href="{{ song.url | prepend: site.baseurl }}">{{ song.title }}</a>
     </li>
+  {% endif %}
   {% endfor %}
 </ul>

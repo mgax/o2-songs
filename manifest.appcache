@@ -5,6 +5,8 @@ CACHE MANIFEST
 # rev {{ site.time }}
 
 CACHE:
+/
+
 {% for page in site.pages %}{% if page.url != '/manifest.appcache' %}{{ page.url }}{% endif %}
 {% endfor %}
 
