@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Cântece de la Oxigen</h1>
+
+<ul>
+  {% for song in site.songs %}
+    <li>
+      <a href="{{ song.url | prepend: site.baseurl }}">{{ song.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

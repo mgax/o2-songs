@@ -1,4 +1,7 @@
-## Comoara muntilor
+---
+title: Comoara muntilor
+layout: song
+---
 
 Am alergat prin ploi si ninsori  
 Strabatand ale muntilor carari,  

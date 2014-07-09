@@ -1,0 +1,6 @@
+title: Cântece de la Oxigen
+markdown: kramdown
+permalink: pretty
+collections:
+  songs:
+    output: true
