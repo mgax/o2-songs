@@ -1,5 +1,6 @@
 ---
-title: În Amurg (Constantin David)
+title: În Amurg
+author: Constantin David
 layout: song
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Alergi prin zăpadă (Costica David)
+title: Alergi prin zăpadă
+author: Costică David
 layout: song
 ---
 

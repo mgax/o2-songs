@@ -3,6 +3,9 @@ layout: default
 ---
 <p><a href="/">&laquo cântece</a></p>
 
-<h2>{{ page.title }}</h2>
+<h2>
+  {{ page.title }}
+  {% if page.author %} &mdash; {{ page.author }} {% endif %}
+</h2>
 
 {{ content }}
