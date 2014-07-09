@@ -8,8 +8,7 @@ Strofa: Sol mi Do / Do Sol / Do la Do la / la Do Sol
 Refren: Sol / Do Sol (x2)  
 
 
-Intro  
-: Ninsa cale fara destin   
+Intro: Ninsa cale fara destin   
 Mâna mângâie usor   
 Ochi de copil   
 
