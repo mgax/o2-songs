@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html manifest="{{ site.base_url }}/manifest.appcache">
+<html manifest="/manifest.appcache">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta name="apple-mobile-web-app-title" content="Cântece O2">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="apple-touch-icon" href="{{ site.base_url }}/static/icon.png">
-    <link rel="shortcut icon" sizes="196x196" href="{{ site.base_url }}/static/icon.png">
+    <link rel="apple-touch-icon" href="/static/icon.png">
+    <link rel="shortcut icon" sizes="196x196" href="/static/icon.png">
 
     {% for url in site.cdn.css %}
       <link rel="stylesheet" href="{{ url }}">

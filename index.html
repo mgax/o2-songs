@@ -8,7 +8,7 @@ layout: default
   {% for song in site.pages %}
   {% if song.url != '/index.html' and song.url != '/manifest.appcache' %}
     <li>
-      <a href="{{ song.url | prepend: site.baseurl }}">{{ song.title }}</a>
+      <a href="{{ song.url }}">{{ song.title }}</a>
     </li>
   {% endif %}
   {% endfor %}
