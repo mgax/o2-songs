@@ -1,0 +1,27 @@
+---
+title: Alergi prin zăpadă (Costica David)
+layout: song
+---
+
+Strang in maini incet un bulgare de nea  
+Privind spre tine il arunc usor  
+Nu te nimeresc de necaz suspin  
+Iar tu fugi de mine in ras cristalin  
+Alergi prin zapada ninsoarea e deasa  
+Nici nu stii cand ninge cat esti de frumoasa  
+Pe parul tau lung iarna-si asterne  
+
+
+Fulgii de nea siraguri de perle (x2)  
+
+
+Incerc sa te-ajung dar nu pot sa te prind  
+Desi esti aproape nu pot sa te-ating  
+Dar aluneci si cazi te afunzi in zapada  
+Te cuprind in brate ca pe o prada  
+
+
+Incerci sa te scoli sa te scuturi putin  
+Vrei sa te ridici dar de mana te tin  
+Ne privim in ochi rasuflarea ti-e calda  
+Si in sarutari revenim in zapada  
