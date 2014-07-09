@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html manifest="{{ site.base_url }}/manifest.appcache">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,4 +20,14 @@
       {{ content }}
     </div>
   </body>
+
+  <script>
+    if(window.applicationCache) {
+      applicationCache.addEventListener('updateready', function() {
+        // page has been updated; refresh
+        window.applicationCache.swapCache();
+        window.location.reload();
+      });
+    }
+  </script>
 </html>

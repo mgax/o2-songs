@@ -1,0 +1,29 @@
+---
+---
+CACHE MANIFEST
+
+# rev {{ site.time }}
+
+CACHE:
+{% for page in site.pages %}{% if page.url != '/manifest.appcache' %}{{ page.url }}{% endif %}
+{% endfor %}
+
+{% for item in site.songs %}{{ item.url }}
+{% endfor %}
+
+{% for item in site.images %}{{ item.url }}
+{% endfor %}
+
+{% for item in site.scripts %}{{ item.url }}
+{% endfor %}
+
+//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css
+//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap-theme.min.css
+//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js
+//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js
+
+
+NETWORK:
+*
+http://*
+https://*
