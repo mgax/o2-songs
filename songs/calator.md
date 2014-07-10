@@ -1,5 +1,5 @@
 ---
-title: Calator
+title: Călător
 author: Karma
 layout: song
 ---
