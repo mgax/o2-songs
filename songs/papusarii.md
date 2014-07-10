@@ -1,16 +1,14 @@
 ---
-title: Papusarii
+title: Păpușarii
 author: Vasile Mardare
 layout: song
 ---
 
-
 Acorduri:  
-Strofă: la / Fa Do Mi / la / Fa Mi (x2)  
-Refren: re Mi la (x3) / Fa Mi la  
+**Strofă**: *la / Fa Do Mi / la / Fa Mi (x2)*  
+**Refren**: *re Mi la (x3) / Fa Mi la*  
 
-
-1.Păpuşari, luaţi-vă revanşa  
+1\. Păpuşari, luaţi-vă revanşa  
 Morţii voştri sunt de voi produşi  
 N-are rost să vă mai sinucideţi  
 Scoate-ţi-vă mâna din păpuşi  
@@ -19,14 +17,12 @@ Că e iar la modă cum vedeţi
 Nu le mai ajunge că se mişcă  
 Toată ziua filme pe pereţi  
 
-
 R: Totuşi cine îi încurajează  
 Totuşi cine îi aţâţă-n trup  
 Cine e directorul de teatru  
 Şi totuşi păpuşarii cine sunt  
 
-
-2.Urcă iar păpuşile pe scenă  
+2\. Urcă iar păpuşile pe scenă  
 Ascultând scheleticele mâini  
 Ale unor tragice fantome  
 Păpuşari cu suflete de câini  
@@ -35,8 +31,7 @@ Ascultând scenariul lor moral
 Dar când ei reintră-n cicatrice  
 Se trezesc morminte în Ardeal  
 
-
-3.Hai la teatru, că e iarăşi dramă  
+3\. Hai la teatru, că e iarăşi dramă  
 Spectatorii cască ochii mari  
 Ce frumos, păpuşile dansează  
 Tremurând în mâini de păpuşari  

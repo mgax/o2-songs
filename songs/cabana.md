@@ -30,7 +30,8 @@ Nici nu ştiu dacă e
 casa mică în care-am fost  
 Iar de-ar fi să pot şti, n-ar avea,  
 n-ar avea niciun rost  
-2. Miroseam a zăpezi  
+
+2\. Miroseam a zăpezi  
 într-o casă de lemn  
 La mansardă urcam  
 sub acelaşi îndemn  
@@ -47,7 +48,7 @@ n-am putut să-nţeleg
 Din acele scrisori adevărul întreg  
 
 
-3. Îţi scriam, îmi scriai,  
+3\. Îţi scriam, îmi scriai,  
 le puneam în cutii  
 Ca să aibă motiv şi să poată veni  
 Apărea un poştaş  
