@@ -49,4 +49,6 @@ E simpla intamplare
 Eu te am pe tine  
 Sigur o minune  
 Iubirea noastra pare c-ancepuuuuut  
-Refren
+
+
+**Refren**
