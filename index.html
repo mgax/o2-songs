@@ -2,14 +2,39 @@
 layout: default
 ---
 
+<script>
+(function() {
+  'use strict';
+
+  $('body').addClass('js-loading');
+  $(document).ready(initialize);
+
+  function normalize(text) {
+    return text
+        .toLowerCase()
+        .replace(/[ăâ]/g, 'a')
+        .replace(/î/g, 'i')
+        .replace(/ș/g, 's')
+        .replace(/ț/g, 't');
+  }
+
+  function cmp(a, b) {
+    return normalize($(a).text()) < normalize($(b).text()) ? -1 : 1;
+  }
+
+  function initialize() {
+    $('.song-list').append($('.song-list > li').remove().toArray().sort(cmp));
+    $('body').removeClass('js-loading');
+  }
+})();
+</script>
+
 <h1>Cântece de la Oxigen</h1>
 
-<ul>
+<ul class="song-list">
   {% for song in site.pages %}
   {% if song.url != '/index.html' and song.url != '/manifest.appcache' %}
-    <li>
-      <a href="{{ song.url }}">{{ song.title }}</a>
-    </li>
+    <li><a href="{{ song.url }}">{{ song.title }}</a></li>
   {% endif %}
   {% endfor %}
 </ul>
