@@ -5,35 +5,34 @@ layout: song
 ---
 
 
-Em G D  
+*Em G D*  
 Drumul pana-n munti sa-l infrunti  
-Em G D  
+*Em G D*  
 Si sa treci mergand, mergand,  
 strabatand  
-Am Em  
+*Am Em*  
 Toata calea ce-ai gasit  
-Am Em  
+*Am Em*  
 Tu, calator neobosit  
-Am C B7  
+*Am C B7*  
 Si te-ai jurat sa o strabati pan' la sfarsit.  
 
 
 Refren:  
 
 
-Em  
+*Em*  
 Calator, calator  
-D  
+*D*  
 Calator sunt pe pamant  
 Si-am un dor, si-am un dor  
-Em  
+*Em*  
 Si-am un dor ce-mi este sfant.  
 Drumul este lung si-n amurg  
 Pasii tai neobositi ti se scurg  
 Ca-ntr-un vis nascut din foc  
 Tu, calator fara noroc,  
-Ti-ai revarsat toata privirea spre  
-trecut.  
+Ti-ai revarsat toata privirea spre trecut.  
 
 
 Refren  
@@ -44,8 +43,7 @@ Inspre munti, dar dragostea n-o poti
 uita  
 Zi de zi te-a macinat  
 Dorul de ea neincetat  
-Si-abia cand ai ajuns pe munte ai  
-uitat.  
+Si-abia cand ai ajuns pe munte ai uitat.  
 
 
 Refren  
