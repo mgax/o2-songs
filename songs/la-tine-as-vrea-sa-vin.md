@@ -1,5 +1,5 @@
 ---
-title: La tine as vrea sa vin
+title: La tine aș vrea să vin
 author: Bere gratis
 layout: song
 ---

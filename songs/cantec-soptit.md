@@ -1,5 +1,5 @@
 ---
-title: Cantec Soptit
+title: Cântec Șoptit
 author: Poesis
 layout: song
 ---
