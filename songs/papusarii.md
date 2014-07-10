@@ -26,7 +26,7 @@ Cine e directorul de teatru
 Şi totuşi păpuşarii cine sunt  
 
 
-2. Urcă iar păpuşile pe scenă  
+2.Urcă iar păpuşile pe scenă  
 Ascultând scheleticele mâini  
 Ale unor tragice fantome  
 Păpuşari cu suflete de câini  
@@ -36,7 +36,7 @@ Dar când ei reintră-n cicatrice
 Se trezesc morminte în Ardeal  
 
 
-3. Hai la teatru, că e iarăşi dramă  
+3.Hai la teatru, că e iarăşi dramă  
 Spectatorii cască ochii mari  
 Ce frumos, păpuşile dansează  
 Tremurând în mâini de păpuşari  
