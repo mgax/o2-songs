@@ -15,8 +15,7 @@ Toata calea ce-ai gasit
 Am Em  
 Tu, calator neobosit  
 Am C B7  
-Si te-ai jurat sa o strabati pan' la  
-sfarsit.  
+Si te-ai jurat sa o strabati pan' la sfarsit.  
 
 
 Refren:  
