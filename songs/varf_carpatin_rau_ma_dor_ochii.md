@@ -5,7 +5,7 @@ layout: song
 ---
 
 
-1. Rau ma dor ochii, ma dor  
+1.Rau ma dor ochii, ma dor  
 De durerea frunzelor  
 
 
@@ -17,33 +17,33 @@ si iar ma fac,(si iar ma fac)
 Lemn de brad si lemn de fag  
 
 
-2. Rau ma dor picioarele  
+2.Rau ma dor picioarele  
 De batut cararile  
 
 
 Refren:  
 
 
-3. Rau ma dor ochii, ma dor  
+3.Rau ma dor ochii, ma dor  
 De lumina stelelor  
 
 
 Refren:  
 
 
-4. Rau ma doare inima  
+4.Rau ma doare inima  
 Ca iubesti pe-altcineva  
 
 
 Refren:  
 
 
-5. Unde ai plecat nu stiu  
+5.Unde ai plecat nu stiu  
 Dar mi-e sufletul pustiu  
 
 
 Refren:  
 
 
-6. Si-am sa plec fara sa stiu  
+6.Si-am sa plec fara sa stiu  
 Dus de dorul meu tarziu   
