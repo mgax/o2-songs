@@ -1,7 +1,7 @@
-Cântece de la Oxigen
-====================
+Cântece cu Oxigen
+=================
 
-Un site cu cântece de munte de la Asociația Oxigen: [o2.grep.ro](http://o2.grep.ro/)
+Un site cu cântece de munte cu Asociația Oxigen: [o2.grep.ro](http://o2.grep.ro/)
 
 
 Cum adaug un cântec?
