@@ -36,7 +36,14 @@ layout: default
 <ul class="song-list">
   {% for song in site.pages %}
   {% if song.url != '/index.html' and song.url != '/manifest.appcache' %}
-    <li><a href="{{ song.url }}">{{ song.title }}</a></li>
+    <li>
+      <a href="{{ song.url }}">{{ song.title }}</a>
+      {% if song.video %}
+        <a href="{{ song.video }}" class="video" target="_blank">
+          <img src="/static/play.png">
+        </a>
+      {% endif %}
+    </li>
   {% endif %}
   {% endfor %}
 </ul>
