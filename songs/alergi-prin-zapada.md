@@ -2,6 +2,7 @@
 title: Alergi prin zăpadă
 author: Costică David
 layout: song
+video: http://www.youtube.com/watch?v=nciu9kLX3JI
 ---
 
 *C Am Dm F G*  
