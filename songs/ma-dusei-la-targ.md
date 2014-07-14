@@ -1,6 +1,7 @@
 ---
 title: Mă dusei la târg
 layout: song
+video: http://www.youtube.com/watch?v=CEp9wKIrJqM
 ---
 
 Ma dusei la targ  
