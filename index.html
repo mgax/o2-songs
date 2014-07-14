@@ -2,33 +2,9 @@
 layout: default
 ---
 
+<script src="/static/app.js"></script>
 <script>
-(function() {
-  'use strict';
-
-  $('body').addClass('js-loading');
-  $(document).ready(initialize);
-
-  function normalize(text) {
-    return text
-        .toLowerCase()
-        .replace(/[ăâ]/g, 'a')
-        .replace(/î/g, 'i')
-        .replace(/ș/g, 's')
-        .replace(/ț/g, 't');
-  }
-
-  function cmp(a, b) {
-    return normalize($(a).text()) < normalize($(b).text()) ? -1 : 1;
-  }
-
-  function initialize() {
-    var song_items = $('.song-list > li').remove().toArray().sort(cmp);
-    $('.song-list').append(song_items);
-    $('body').removeClass('js-loading');
-    $('.footer').append("; cântece: " + song_items.length);
-  }
-})();
+  app.initialize();
 </script>
 
 <h1>{{ site.title }}</h1>
