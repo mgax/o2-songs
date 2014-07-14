@@ -23,8 +23,10 @@ layout: default
   }
 
   function initialize() {
-    $('.song-list').append($('.song-list > li').remove().toArray().sort(cmp));
+    var song_items = $('.song-list > li').remove().toArray().sort(cmp);
+    $('.song-list').append(song_items);
     $('body').removeClass('js-loading');
+    $('.footer').append("; cântece: " + song_items.length);
   }
 })();
 </script>
@@ -44,4 +46,4 @@ layout: default
       class="btn btn-xs btn-primary">cântec nou</a>
 </p>
 
-<p>actualizat: {{ site.time | date: "%d-%b-%Y %H:%M"  }}</p>
+<p class="footer">actualizat: {{ site.time | date: "%d-%b-%Y %H:%M"  }}</p>
