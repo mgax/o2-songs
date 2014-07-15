@@ -1,6 +1,7 @@
 ---
 title: Imnul Pietrei Craiului
 layout: song
+video: https://www.youtube.com/watch?v=uhTmy3BNyl0
 ---
 
 Acorduri:  

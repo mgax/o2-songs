@@ -2,6 +2,7 @@
 author: Vama Veche
 title: Nu Am Chef Azi
 layout: song
+video: https://www.youtube.com/watch?v=rJs-6LWX79Y
 ---
 
 Nu am chef azi, nu am chef azi,  
