@@ -49,6 +49,7 @@ app.Router = Backbone.Router.extend({
   },
 
   show: function(view) {
+    $(window).scrollTop(0);
     if(this.view) {
       this.view.remove();
     }
