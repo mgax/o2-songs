@@ -1,7 +1,8 @@
 ---
-title: La tine aș vrea să vin
+title: La Tine Aș Vrea Să Vin
 author: Bere gratis
 layout: song
+video: http://www.youtube.com/watch?v=GYgCGU4w2uo
 ---
 
 
