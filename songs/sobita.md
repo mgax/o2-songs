@@ -1,6 +1,7 @@
 ---
 title: Sobița
 layout: song
+video: http://www.youtube.com/watch?v=dqk1CTbt1oY
 ---
 
 Acorduri:  
