@@ -2,6 +2,7 @@
 title: Ana lui Manole
 author: Mirela Atudorei
 layout: song
+video: https://www.youtube.com/watch?v=n2bFn7N3MvY
 ---
 
 **Acorduri:**  
