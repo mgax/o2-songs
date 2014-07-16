@@ -1,6 +1,7 @@
 ---
 title: Prieteni din Crai
 layout: song
+video: http://www.youtube.com/watch?v=DoaVcKpT54c
 ---
 
 Prieten drag, ce Craiul ne-a legat  

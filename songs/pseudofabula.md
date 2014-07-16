@@ -1,7 +1,8 @@
 ---
 title: Pseudofabula
-author: Rosu Și Negru
+author: Roșu Și Negru
 layout: song
+video: http://www.youtube.com/watch?v=6V3bveKQwuQ
 ---
 
 *mi Re Do /la Sol*  

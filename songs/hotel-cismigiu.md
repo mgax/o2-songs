@@ -2,6 +2,7 @@
 author: Vama Veche
 title: Hotel Cișmigiu
 layout: song
+video: http://www.youtube.com/watch?v=tkZhxIZHyAM
 ---
 
 1\. E pustiu, e-ntuneric... si mi-e frica de mor  

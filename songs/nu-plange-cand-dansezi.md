@@ -1,6 +1,7 @@
 ---
 title: Nu Plânge Când Dansezi
 layout: song
+video: http://www.youtube.com/watch?v=rXRLrSMo-uo
 ---
 
 Acorduri:  

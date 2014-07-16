@@ -1,6 +1,8 @@
 ---
 title: Ochi verzi
+author: Jenică Harja
 layout: song
+video: http://www.youtube.com/watch?v=plslGQxSWUY
 ---
 
 *G Em C (E de sus) \|--0--2--3--\|*  

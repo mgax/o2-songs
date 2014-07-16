@@ -1,6 +1,8 @@
 ---
 title: Aviația
+author: Puiu Cazan
 layout: song
+video: http://www.youtube.com/watch?v=Liug9-1679c
 ---
 
 Acorduri:  

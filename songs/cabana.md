@@ -2,6 +2,7 @@
 title: Cabana
 author: Vasile Mardare
 layout: song
+video: http://www.youtube.com/watch?v=nz0Y4jLhxzE
 ---
 
 O cabană în munţi,  
