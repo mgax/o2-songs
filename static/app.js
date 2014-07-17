@@ -17,7 +17,9 @@ app.SongPage = Backbone.View.extend({
 
   initialize: function() {
     var url = this.model.get('url');
-    this.$el.load(url + ' .container > *');
+    this.$el.load(url + ' .container > *', null, function() {
+        $(this).find('.song-home-link').attr('href', '#');
+    });
   }
 
 });
