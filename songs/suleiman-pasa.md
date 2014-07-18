@@ -1,6 +1,7 @@
 ---
 title: Suleiman Pașa
 layout: song
+video: http://www.youtube.com/watch?v=f4XpXMTpNPw
 ---
 
 *G        C*  
