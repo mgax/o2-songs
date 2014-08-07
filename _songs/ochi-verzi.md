@@ -1,7 +1,6 @@
 ---
 title: Ochi verzi
 author: Jenică Harja
-layout: song
 video: http://www.youtube.com/watch?v=1Vz55jUWvBU
 ---
 

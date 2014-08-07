@@ -1,6 +1,5 @@
 ---
 title: Raiul
-layout: song
 video: http://www.youtube.com/watch?v=_40PSZjaFSg
 ---
 

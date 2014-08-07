@@ -1,7 +1,6 @@
 ---
 title: Baladă Pentru Daniela
 author: Vouă
-layout: song
 video: http://www.youtube.com/watch?v=k6zaWOqDRK4
 ---
 

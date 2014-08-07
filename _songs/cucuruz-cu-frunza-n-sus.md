@@ -1,7 +1,6 @@
 ---
 title: Cucuruz cu frunza-n sus
 author: Emilian Onciu
-layout: song
 video: http://www.youtube.com/watch?v=lr3lL8OjGqQ
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Cântec Șoptit
 author: Poesis
-layout: song
 video: http://www.youtube.com/watch?v=sYIvYt313a8
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Comoara Munților
-layout: song
 video: http://www.youtube.com/watch?v=3GlVQaHDdTI
 ---
 

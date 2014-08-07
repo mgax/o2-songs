@@ -1,7 +1,6 @@
 ---
 title: Suntem Vise
 author: Casa cu Prieteni
-layout: song
 video: http://www.youtube.com/watch?v=O9D629dl3HE
 ---
 

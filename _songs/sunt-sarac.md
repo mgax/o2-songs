@@ -1,7 +1,6 @@
 ---
 title: Sunt Sărac
 author: Karma
-layout: song
 video: http://www.youtube.com/watch?v=9K5qxUNI_eQ
 ---
 

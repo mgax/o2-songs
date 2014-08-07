@@ -1,7 +1,6 @@
 ---
 title: Pseudofabula
 author: Roșu Și Negru
-layout: song
 video: http://www.youtube.com/watch?v=6V3bveKQwuQ
 ---
 

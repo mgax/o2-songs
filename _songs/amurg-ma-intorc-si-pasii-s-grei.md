@@ -1,6 +1,5 @@
 ---
 title: Amurg (Mă Întorc Și Pașii-s Grei)
-layout: song
 video: http://www.youtube.com/watch?v=yiqpuRE-kKA
 ---
 

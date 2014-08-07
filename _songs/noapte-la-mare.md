@@ -1,6 +1,5 @@
 ---
 title: Noapte La Mare
-layout: song
 video: http://www.youtube.com/watch?v=lVuZ_phy-uI
 ---
 

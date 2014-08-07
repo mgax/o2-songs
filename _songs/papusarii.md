@@ -1,7 +1,6 @@
 ---
 title: Păpușarii
 author: Vasile Mardare
-layout: song
 video: http://www.youtube.com/watch?v=ba7OZ9qX9wE
 ---
 

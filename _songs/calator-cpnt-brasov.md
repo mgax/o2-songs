@@ -1,6 +1,5 @@
 ---
 title: Călător – CPNT Brașov
-layout: song
 video: http://www.youtube.com/watch?v=Ij4UjzphVmY
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Tropa-Trop
-layout: song
 video: http://www.youtube.com/watch?v=AyNFgiZmXNo
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Pădure de argint
-layout: song
 video: https://www.youtube.com/watch?v=ntfR6vb2WJU
 ---
 

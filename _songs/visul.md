@@ -1,7 +1,6 @@
 ---
 title: Visul
 author: Cătălin Condreț
-layout: song
 video: http://www.youtube.com/watch?v=izKo9_NKOa0
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Amintiri (Crenguță de Brad)
-layout: song
 ---
 
 Acorduri:  

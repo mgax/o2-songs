@@ -1,7 +1,6 @@
 ---
 title: Rău mă dor ochii
 author: Vârf Carpatin
-layout: song
 video: http://www.youtube.com/watch?v=V4mwf2QO6Es
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Dor De Munți
 author: Costică David
-layout: song
 video: http://www.youtube.com/watch?v=QSMS-TgpZoc
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: La O Cană Cu Vin
 author: Ecoul
-layout: song
 video: http://www.youtube.com/watch?v=MgfOctfsC4A
 ---
 

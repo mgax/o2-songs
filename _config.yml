@@ -6,6 +6,11 @@ collections:
   songs:
     output: true
 
+defaults:
+  - scope: {path: "", type: "songs"}
+    values:
+      layout: "song"
+
 cdn:
   css:
     - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css'

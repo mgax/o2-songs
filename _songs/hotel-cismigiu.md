@@ -1,7 +1,6 @@
 ---
 author: Vama Veche
 title: Hotel Cișmigiu
-layout: song
 video: http://www.youtube.com/watch?v=tkZhxIZHyAM
 ---
 

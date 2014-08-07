@@ -1,7 +1,6 @@
 ---
 title: Călător
 author: Karma
-layout: song
 video: http://www.youtube.com/watch?v=lgk2iHGkgis
 ---
 

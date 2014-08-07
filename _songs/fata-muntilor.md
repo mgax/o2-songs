@@ -1,6 +1,5 @@
 ---
 title: Fata Munților
-layout: song
 video: https://www.youtube.com/watch?v=I221wgpqOJE
 ---
 

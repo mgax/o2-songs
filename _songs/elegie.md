@@ -1,7 +1,6 @@
 ---
 title: Elegie
 author: Nu Acum
-layout: song
 video: http://www.youtube.com/watch?v=44mXaEdDI5o
 ---
 
