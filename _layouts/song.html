@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<script>
+  var url = "{{ page.url }}";
+  slug = url.match(/^\/songs\/(.*)\.html$/)[1];
+  window.location.href = '/#song/' + slug;
+</script>
+
 <p><a href="/" class="song-home-link">&laquo cântece</a></p>
 
 <h2>
