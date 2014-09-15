@@ -6,10 +6,10 @@ video: http://www.youtube.com/watch?v=k6zaWOqDRK4
 
 Acorduri:  
 **Strofă**: *Sol Do Sol / Sol Re Re7 / Do Re Sol mi / Do Re Sol (x2)*  
-**Refren**: Do Re / Sol mi / Do Re Sol (x2)*  
+**Refren**: *Do Re / Sol mi / Do Re Sol (x2)*  
 SAU  
 **Strofă**: *Do Fa Do / Do Sol Sol7 / Fa Sol Do la / Fa Sol Do (x2)*  
-**Refren**: Fa Sol / Do la / Fa Sol Do (x2)*  
+**Refren**: *Fa Sol / Do la / Fa Sol Do (x2)*  
 
 1\. E sâmbătă seara, sunt singur și trist  
 Beau bere cu gândul la tine  
