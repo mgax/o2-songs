@@ -4,8 +4,8 @@ video: https://www.youtube.com/watch?v=I221wgpqOJE
 ---
 
 Acorduri:
-*Do / Do / Fa Do / Sol Do* SAU
-*Sol / Sol / Do Sol / Re Sol* SAU
+*Do / Do / Fa Do / Sol Do* SAU  
+*Sol / Sol / Do Sol / Re Sol* SAU  
 *Re / Re / Sol Re / La Re*
 
 1\.În Piatra Craiului plecat-am iară  
