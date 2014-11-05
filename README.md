@@ -6,21 +6,26 @@ Un site cu cântece de munte cu Asociația Oxigen: [o2.grep.ro](http://o2.grep.r
 
 Cum adaug un cântec?
 --------------------
-Fiecare cântec este un fișier în directorul [_songs](https://github.com/mgax/o2-songs/tree/gh-pages/_songs) din repository. Fișierul are următorul format:
+1. Pregătire.
 
-* O zonă inițială de metadate. Aici este titlul cântecului. Câmpul `author` poate să lipsească.
-* Strofele sunt separate de câte un rând liber. În HTML vor deveni paragrafe (`<p>`).
-* Versurile au două spații albe la sfârșit. În HTML vor fi separate de newline (`<br>`).
-* Numele fișierului trebuie să urmeze titlul cântecului. Pentru exemplul de mai jos, numele de fișier ar fi `cantec-de-exemplu.md`.
+  * Găsește versurile cu acorduri.
+  * Deschide pagina http://mgax.github.io/jekyll-preview/. Aici vei introduce
+    textul în stânga și vei vedea cum apare în dreapta.
+  * Deschide unul din cântecele existente, de exemplu
+    [călător](https://raw.githubusercontent.com/mgax/o2-songs/gh-pages/_songs/suntem-vise.md),
+    să-l ai ca exemplu.
 
-```
----
-title: Cântec de exemplu
-author: Cântărețul
----
+2. Completează antetul (zona delimitată de semnele `---`). Aici trebuie să
+   scrii titlul (`title: Suntem Vise`) și autorul (`author: Casa cu Prieteni`).
 
-la la la  
-la la la  
-```
+3. Introdu acordurile și versurile. Câteva reguli de urmat:
 
-Pentru a adăuga un cântec, apăsați pe butonul "+" din [directorul de cântece](https://github.com/mgax/o2-songs/tree/gh-pages/_songs).
+  * Separă strofele cu un rând gol. Un rând gol înseamnă paragraf nou.
+  * La sfârșitul fiecărui vers lasă două spații albe. Asta înseamnă să treacă
+    pe rândul următor, fără să înceapă un paragraf nou.
+  * Când numerotezi strofele, în loc de `2.`, scrie `2\.` (backslash
+    înainte de punct), ca să nu se facă numerotare automată.
+  * Pentru acorduri, folosește `*` ca să încadrezi text *italic* și
+    `**` ca să încadrezi text **bold**.
+
+4. Copiază textul introdus și trimite-l prin mail la <alex@grep.ro>.
