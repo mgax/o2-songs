@@ -11,8 +11,10 @@ Cum adaug un cântec?
   * Găsește versurile cu acorduri.
   * Deschide pagina http://mgax.github.io/jekyll-preview/. Aici vei introduce
     textul în stânga și vei vedea cum apare în dreapta.
-  * Deschide unul din cântecele existente, de exemplu
-    [călător](https://raw.githubusercontent.com/mgax/o2-songs/gh-pages/_songs/suntem-vise.md),
+  * Deschide unul din
+    [cântecele existente](https://github.com/mgax/o2-songs/tree/gh-pages/_songs),
+    de exemplu
+    [suntem vise](https://raw.githubusercontent.com/mgax/o2-songs/gh-pages/_songs/suntem-vise.md),
     să-l ai ca exemplu.
 
 2. Completează antetul (zona delimitată de semnele `---`). Aici trebuie să
