@@ -4,6 +4,9 @@ title: Hotel Cișmigiu
 video: http://www.youtube.com/watch?v=tkZhxIZHyAM
 ---
 
+**Acorduri:**  
+**Bm F# / A E / G D / Em F#**  
+
 1\. E pustiu, e-ntuneric... si mi-e frica de mor  
 Locuiesc intr-o hruba, la cap de coridor  
 Sunt racit si mi-e foame si nu am chior de ban  
