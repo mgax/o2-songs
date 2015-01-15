@@ -20,3 +20,4 @@ cdn:
     - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js'
     - '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js'
     - '//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone-min.js'
+    - '//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.5.7/lunr.min.js'
