@@ -79,6 +79,11 @@ class app.Search extends Backbone.View
     'submit': (evt) -> evt.preventDefault()
     'change': -> @update()
     'keyup': -> @update()
+    'click #search-clear': (evt) ->
+      input = @$el.find('input')
+      input.val('')
+      @update()
+      input.focus()
 
   initialize: (options) ->
     @index = options.index

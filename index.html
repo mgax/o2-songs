@@ -11,8 +11,15 @@ layout: default
   <div class="homepage">
     <h1>{{ site.title }}</h1>
 
-    <form id="search">
-      <input type="search" class="form-control">
+    <form id="search" class="form row">
+      <div class="col-xs-9">
+        <input type="search" class="form-control">
+      </div>
+      <div class="col-xs-2">
+        <button type="button" id="search-clear" class="btn btn-default">
+          <span class="glyphicon glyphicon-remove-circle"></span>
+        </button>
+      </div>
       <ul id="results"></ul>
     </form>
 
