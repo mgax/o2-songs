@@ -61,7 +61,9 @@ class app.Index
       @pipeline.add (token, tokenIndex, tokens) ->
         token
           .replace(/ș/g, 's')
+          .replace(/ş/g, 's')
           .replace(/ț/g, 't')
+          .replace(/ţ/g, 't')
           .replace(/ă/g, 'a')
           .replace(/â/g, 'a')
           .replace(/î/g, 'i')
