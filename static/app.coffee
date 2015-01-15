@@ -58,6 +58,13 @@ class app.Index
 
   constructor: ->
     @lunr = lunr ->
+      @pipeline.add (token, tokenIndex, tokens) ->
+        token
+          .replace(/ș/g, 's')
+          .replace(/ț/g, 't')
+          .replace(/ă/g, 'a')
+          .replace(/â/g, 'a')
+          .replace(/î/g, 'i')
       @field('title', boost: 10)
       @field('text')
       @ref('slug')
