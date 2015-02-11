@@ -5,9 +5,10 @@ video: http://www.youtube.com/watch?v=O9D629dl3HE
 ---
 
 Acorduri:  
-**Strofă**: *mi Si7 / la Si7 (x2)*  
-**Bridge**: *Sol la Si7 mi / Sol la Do Si7*  
-**Refren**: *mi Do / la Si7 / mi / Do la / mi Do la / Si7*  
+**Strofă**: *la Mi / re Mi (x2)*  
+**Bridge**: *Do re Mi la / Do re Mi l*  
+**Refren**: *la Fa / re Mi / Fa re/ la Fa re Mi*  
+*Capo 4-5*
 
 1\. Peste toate se așterne  
 Praf de drum, praf de drum  
