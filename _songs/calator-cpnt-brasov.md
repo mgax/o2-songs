@@ -3,6 +3,8 @@ title: Călător – CPNT Brașov
 video: http://www.youtube.com/watch?v=Ij4UjzphVmY
 ---
 
+**Acorduri:** *Do La*  
+
 Inchizi ochii de nebun  
 Si pleci din nou la drum  
 Nu stii, n-auzi, nu simti, nu poti sa simti  
