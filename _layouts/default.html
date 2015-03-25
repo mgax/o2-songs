@@ -11,10 +11,15 @@
     <link rel="apple-touch-icon" href="/static/icon.png">
     <link rel="shortcut icon" sizes="196x196" href="/static/icon.png">
 
+    <style>
+      .js-loading .song-list { display: none; }
+      #search { max-width: 400px; }
+      #search input { font-size: 16px; }
+    </style>
+
     {% for url in site.cdn.css %}
       <link rel="stylesheet" href="{{ url }}">
     {% endfor %}
-    <link rel="stylesheet" href="/static/style.css">
 
     {% for url in site.cdn.js %}
       <script src="{{ url }}"></script>
