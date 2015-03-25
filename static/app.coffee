@@ -143,23 +143,23 @@ app.extract_song = (li) ->
   )
 
 app.on_document_ready = ->
-  song_col = new Backbone.Collection()
-  index = new app.Index()
+  app.song_col = new Backbone.Collection()
+  app.index = new app.Index()
 
   $song_ul = $('.song-list')
   for item in $song_ul.find('> li').remove().toArray().sort(app.cmp)
     song = app.extract_song(item)
-    song_col.add(song)
+    app.song_col.add(song)
     $song_ul.append(item)
-    index.add(song)
+    app.index.add(song)
 
   $('body').removeClass('js-loading')
-  $('.footer').append("; cântece: " + song_col.length)
+  $('.footer').append("; cântece: " + app.song_col.length)
 
   app.router = new app.Router(
     homepage_html: $('.homepage').remove().html()
-    song_col: song_col
-    index: index
+    song_col: app.song_col
+    index: app.index
   )
 
   Backbone.history.start(pushState: false)
