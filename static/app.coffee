@@ -55,6 +55,9 @@ class app.Index
 
   constructor: ->
     @lunr = lunr ->
+      @pipeline.remove(lunr.trimmer)
+      @pipeline.remove(lunr.stemmer)
+      @pipeline.remove(lunr.stopWordFilter)
       @pipeline.add (token, tokenIndex, tokens) ->
         token
           .replace(/ș/g, 's')
@@ -70,7 +73,7 @@ class app.Index
 
   add: (song) ->
     data = song.get('content')
-    $d = $('<div>').append(data).find('.container')
+    $d = $('<div>').append(data)
     $d.find('script').remove()
     $d.find('.song-home-link').remove()
     doc = _.extend(song.toJSON(), text: $d.text())
