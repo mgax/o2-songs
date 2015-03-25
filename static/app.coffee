@@ -19,10 +19,7 @@ class app.HomePage extends Backbone.View
 class app.SongPage extends Backbone.View
 
   initialize: ->
-    url = @model.get('url')
-    @$el.load(url + ' .container > *', ->
-      $(@).find('.song-home-link').attr('href', '#')
-    )
+    @$el.html(@model.get('content'))
 
 
 class app.Router extends Backbone.Router
@@ -131,13 +128,11 @@ app.cmp = (a, b) ->
 
 app.extract_song = (li) ->
   $song_link = $('.song-link', li)
-  url = $song_link.attr('href')
-  slug = url.match(/([^/]+)\.html$/)[1]
+  slug = $song_link.attr('href').match(/([^/]+)\.html$/)[1]
   $(li).attr('data-slug', slug)
   $song_link.attr('href', '#song/' + slug)
   return new Backbone.Model(
     title: $song_link.text()
-    url: url
     slug: slug
     content: $('.song-content', li).remove().html()
   )
