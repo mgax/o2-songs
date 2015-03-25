@@ -1,5 +1,4 @@
 ---
-not_in_manifest: true
 ---
 CACHE MANIFEST
 
@@ -8,11 +7,9 @@ CACHE MANIFEST
 CACHE:
 /
 
-{% for item in site.static_files %}{{ item.path }}
-{% endfor %}
-
-{% for page in site.pages %}{% unless page.not_in_manifest %}{{ page.url }}
-{% endunless %}{% endfor %}
+/static/icon.png
+/static/play.png
+/static/app.js
 
 {% for url in site.cdn.css %}{{ url }}
 {% endfor %}
