@@ -14,9 +14,6 @@ CACHE:
 {% for page in site.pages %}{% unless page.not_in_manifest %}{{ page.url }}{% endunless %}
 {% endfor %}
 
-{% for item in site.songs %}{{ item.url }}
-{% endfor %}
-
 {% for item in site.images %}{{ item.url }}
 {% endfor %}
 

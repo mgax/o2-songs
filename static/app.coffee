@@ -72,12 +72,12 @@ class app.Index
       @ref('slug')
 
   add: (song) ->
-    $.get song.get('url'), (data) =>
-      $d = $('<div>').append(data).find('.container')
-      $d.find('script').remove()
-      $d.find('.song-home-link').remove()
-      doc = _.extend(song.toJSON(), text: $d.text())
-      @lunr.add(doc)
+    data = song.get('content')
+    $d = $('<div>').append(data).find('.container')
+    $d.find('script').remove()
+    $d.find('.song-home-link').remove()
+    doc = _.extend(song.toJSON(), text: $d.text())
+    @lunr.add(doc)
 
   search: (query) -> @lunr.search(query)
 
@@ -139,6 +139,7 @@ app.extract_song = (li) ->
     title: $song_link.text()
     url: url
     slug: slug
+    content: $('.song-content', li).remove().html()
   )
 
 app.on_document_ready = ->
