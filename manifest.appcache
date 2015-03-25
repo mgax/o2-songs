@@ -11,14 +11,8 @@ CACHE:
 {% for item in site.static_files %}{{ item.path }}
 {% endfor %}
 
-{% for page in site.pages %}{% unless page.not_in_manifest %}{{ page.url }}{% endunless %}
-{% endfor %}
-
-{% for item in site.images %}{{ item.url }}
-{% endfor %}
-
-{% for item in site.scripts %}{{ item.url }}
-{% endfor %}
+{% for page in site.pages %}{% unless page.not_in_manifest %}{{ page.url }}
+{% endunless %}{% endfor %}
 
 {% for url in site.cdn.css %}{{ url }}
 {% endfor %}
@@ -26,8 +20,9 @@ CACHE:
 {% for url in site.cdn.js %}{{ url }}
 {% endfor %}
 
+{% for url in site.cdn.etc %}{{ url }}
+{% endfor %}
 
 NETWORK:
-*
-http://*
-https://*
+{% for url in site.cdn.map %}{{ url }}
+{% endfor %}

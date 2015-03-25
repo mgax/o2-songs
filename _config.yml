@@ -15,9 +15,19 @@ cdn:
   css:
     - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css'
     - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap-theme.min.css'
+
   js:
     - '//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js'
     - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js'
     - '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js'
     - '//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone-min.js'
     - '//cdnjs.cloudflare.com/ajax/libs/lunr.js/0.5.7/lunr.min.js'
+
+  etc:
+    - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/fonts/glyphicons-halflings-regular.woff'
+    - '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/fonts/glyphicons-halflings-regular.ttf'
+
+  map:
+    - '//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.map'
+    - '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.map'
+    - '//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone-min.map'
