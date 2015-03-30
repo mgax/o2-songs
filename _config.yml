@@ -2,6 +2,10 @@ title: Cântece cu Oxigen
 markdown: kramdown
 timezone: Europe/Bucharest
 
+exclude:
+  - CNAME
+  - README.md
+
 collections:
   songs:
     output: true
